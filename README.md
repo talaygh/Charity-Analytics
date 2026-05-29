@@ -1,7 +1,7 @@
 # Where 40 Analyst Hours Go: A Matched-Resource Approach to Australian Charity Giving
 > Analytics skills challenge reframing 22,506 Australian charities as a matched-resource problem — joining two ACNC datasets on ABN, scoring on a 4-pillar fit model, and recommending the top 10 where 40 weekly analyst hours would have the most impact.
 
-**Stack:** Python · Pandas · NumPy · Tableau · PowerPoint
+**Stack:** Python · Pandas · NumPy · Tableau · PowerPoint   
 **Data:** [ACNC AIS 2020](https://data.gov.au/data/dataset/acnc-2020-annual-information-statement-data/resource/9eda5c10-bded-410e-8ee9-a327a8ff2560) · [ACNC Charity Register](https://data.gov.au/data/dataset/acnc-register/resource/eb1e6be4-5b13-4feb-b28e-388bf7c26f93)   
 **Live Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/talay.kamali/vizzes)
 
